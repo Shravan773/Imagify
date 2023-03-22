@@ -7,7 +7,7 @@ A Full stack image sharing REACT based application where users can create there 
 
 Tech stacks used:
     
-    Frontend:  Html, Tailwind css, Javascript, Reactjs
+    Frontend:  Html, Tailwind css, Javascript, Reactjs,Express.js
     Backend :  Sanity.io
 
 
