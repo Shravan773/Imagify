@@ -1,8 +1,7 @@
 # Imagify
 
 
-
-A Full stack image sharing REACT based application where users can create there account using Google Auth and download,upload and comment on images!
+"Imagify: A full-stack web app utilizing React.js, Express.js, and Sanity.io. Features include Google OAuth integration for personalized accounts and seamless image management capabilities such as Upload,Download and comment on Images."
 
 
 Tech stacks used:
